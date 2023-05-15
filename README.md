@@ -1,5 +1,5 @@
 <h1> <strong>Yuqi Jing's Homepage</strong> 
-  </h1> <p> University of Manchester, England</br> Department of Mathematics<br> </p> <nav> <ul> 
+  </h1> <p> The University of Manchester, England</br> Department of Mathematics<br> </p> <nav> <ul> 
 
   
   <li><a href="https://github.com/yqjing">Github</a></li> 
